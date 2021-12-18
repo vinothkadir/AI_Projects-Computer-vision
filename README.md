@@ -1,1 +1,1 @@
-# AI_Projects-Computer-vision
+Computer-vision-projects
